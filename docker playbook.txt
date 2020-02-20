@@ -64,7 +64,7 @@
     become_user: root
   tags:
     - docker
-    
+   
 #Install docker package #sudo apt install docker-ce
 - name: Install docker package
   apt: 
