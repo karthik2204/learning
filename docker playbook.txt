@@ -1,5 +1,5 @@
 
-#Docker Installation
+#Docker Installation.
 
 #Remove docker packages if exist #sudo apt remove docker docker-engine docker.io
 -name: Remove docker
