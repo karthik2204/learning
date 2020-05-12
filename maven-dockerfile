@@ -1,3 +1,5 @@
+#This Dockerfile is for building maven image
+
 FROM ubuntu:latest
 LABEL maintainer "karthik.tj22@gmail.com"
 
